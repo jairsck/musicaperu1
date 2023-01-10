@@ -9,3 +9,6 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/WWW.RADIOIMPACTODECAJAMARCA.COM.PE/picture?width=320&height=320" group-title="Undefined",Impacto Televisión (Cajamarca) (720p)
 https://eu1.servers10.com:8081/impactotv/index.m3u8
+
+#EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radioimperialtv/picture?width=320&height=320" group-title="Undefined",Imperial Televisión (Huancayo) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
