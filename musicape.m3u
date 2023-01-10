@@ -3,3 +3,6 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 
 #EXTINF:-1 tvg-id="Asiritv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" group-title="Undefined",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-id="GalacticaTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/RCGalacticatv/picture?width=320&height=320" group-title="Music",Galáctica TV (Peru) (360p) [Not 24/7]
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
