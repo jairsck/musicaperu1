@@ -18,3 +18,6 @@ https://cu.onliv3.com/livevd/user1.m3u8
 
 #EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Lotplustv2021/picture?width=320&height=320" group-title="Undefined",LotPlus TV (Chiclayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Millenium49TVPucallpa.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zYpMHhQ.png" group-title="Undefined",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
