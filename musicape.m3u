@@ -19,6 +19,9 @@ https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña 2 TV | PE
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", Mas Cumbia | PE
+https://ca2.inka.net.pe/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Lotplustv2021/picture?width=320&height=320" group-title="Undefined",LotPlus TV (Chiclayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 
