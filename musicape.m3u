@@ -81,3 +81,6 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM
 
 #EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://lh3.googleusercontent.com/-gaitJQnLecE/YKqXiP-BdgI/AAAAAAABCgE/Z-pquANdfv01XInDHZfgDzFf27LP7LOEACK8BGAsYHg/s512/2021-05-23.png",Variados 3 - Vision Musica TV | PE
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1188" tvg-name="Controversia TV" tvg-logo="https://i2.paste.pics/15caba439340da84feba0a02f409c8ca.png",Variados 4 - Controversia TV | PE
+https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
