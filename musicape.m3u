@@ -58,6 +58,9 @@ REGUETON
 #EXTINF:-1 tvg-id="TopFMTVAtalaya.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiotopf/picture?width=320&height=320" group-title="Undefined",Regueton - Top FM TV (Atalaya) (240p) [Not 24/7]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
+#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png",Regueton - Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+
 POP Y ROCK
 
 #EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png", POP Y ROCK - Planeta TV | PE
