@@ -46,3 +46,6 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?Playlist
 
 #EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png", Hechicera TV | PE
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1115" tvg-name="Tumpis TV" tvg-logo="https://i2.paste.pics/68f89669da2e29ccab89808b3da44231.png", Tumpis TV | PE
+https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
