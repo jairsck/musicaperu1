@@ -39,6 +39,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playli
 #EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="Undefined",Romanticos - Sol Stereo TV (Casma) (360p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="471" tvg-name="Memorias TV" tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png", Romanticos - Memorias TV | PE
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+
 HUAYNO
 
 #EXTINF:-1 tvg-id="SumacTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/sumac2021/picture?width=320&height=320" group-title="Undefined",Huayno - Sumac TV (Lima) (480p) [Not 24/7]
