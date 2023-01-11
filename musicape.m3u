@@ -50,3 +50,7 @@ MUSICA EN INGLES
 
 #EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVSISTEMASCUSCOPERU/picture?width=320&height=320" group-title="Undefined",MUSICA EN INGLES - TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UchuTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="Undefined",Variados - Uchu TV (Cusco) (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/Cusco/index.m3u8
