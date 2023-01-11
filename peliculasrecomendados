@@ -37,3 +37,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 
 #EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png", BHTV | PE
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1097" tvg-name="Canal 8 Catacaos" tvg-logo="https://i2.paste.pics/6b2b101c818588d17c09562d3f96ce38.png", Canal 8 Catacaos | PE
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
