@@ -41,6 +41,9 @@ https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 #EXTINF:-1 tvg-id="TVenLinea.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVenLineaCanalDigital/picture?width=320&height=320" group-title="Undefined",Huayno - TVenLinea (Cuzco) (720p) [Not 24/7]
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
+#EXTINF:-1 tvg-id="41" tvg-name="Huayno - Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV | PE
+https://ca2.inka.net.pe/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+
 REGUETON
 
 #EXTINF:-1 tvg-id="TopFMTVAtalaya.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiotopf/picture?width=320&height=320" group-title="Undefined",Regueton - Top FM TV (Atalaya) (240p) [Not 24/7]
